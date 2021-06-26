@@ -32,7 +32,11 @@ body {
     height: 150px;
     background-color: beige;
     display: inline-flex;
-    
+}
+
+.clorox {
+    background-image: url(../photos/clorox.png);
+    background-size: cover;
 }
 a:visited {
     color: white;
